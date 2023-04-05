@@ -9,6 +9,16 @@
       "price": 3850,
       "price_c": 4490,
       "quantity": 1
+    },
+    {
+      "image": "https://assets.burberry.com/is/image/Burberryltd/FC9DE590-6A2F-4A94-BFCC-A22D31FA2C28?$BBY_V2_SL_3x4$&wid=400&hei=534",
+      "title": "Check Cotton Sneakers",
+      "id": 40,
+      "discount": 37,
+      "label": "New in",
+      "price": 620,
+      "price_c": 990,
+      "quantity": 1
     }
   ]
 }
